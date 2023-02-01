@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# ToDo App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern and intuitive Todo web application built with ReactJS that provides complete CRUD functionality. The app is designed to help users keep track of their tasks and manage their to-do list with ease. The data is persistently stored in the local storage, making it available even after a page refresh. Whether you're looking for a simple task manager for personal use or a collaborative tool for your team, this Todo app has got you covered.
 
 ## Available Scripts
 
